@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783097013047",
+    "firebase_url": "https://online-bakery-shop.firebaseio.com",
+    "project_id": "online-bakery-shop",
+    "storage_bucket": "online-bakery-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783097013047:android:2a44500b49b8ff7f4bf0b2",
+        "android_client_info": {
+          "package_name": "com.example.zireael.pc_build_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783097013047-ar571koma6g9qq2p1bgfjlopoi9pf5id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3r7W2gF0INvOavWTvD383mURYFQF-LDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783097013047-ar571koma6g9qq2p1bgfjlopoi9pf5id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
